@@ -13,7 +13,7 @@
 
 @@||*lulu*.com^$domain=luluvdoo.com
 @@||*tnmr.org^$domain=luluvdoo.com
-||*^$domain=luluvdoo.com
+!||*^$domain=luluvdoo.com
 
 @@||*bigwarp*^$domain=bigwarp.pro
 ||*^$domain=bigwarp.pro
