@@ -1,30 +1,7 @@
 ! Title: ユーザールール
-! Version: 20251207
+! Version: 20251217
 ! Expires: 1 days
 ! Homepage: https://ha-ueda.github.io/adguard/
-
-@@||jav-fun.cc^$domain=jav-fun.cc
-@@||luluvdoo.com^$domain=jav-fun.cc
-@@||bigwarp.*^$domain=jav-fun.cc
-@@||savefiles.com^$domain=jav-fun.cc
-@@||dintezuvio.com^$domain=jav-fun.cc
-@@||videzz.net^$domain=jav-fun.cc
-||*^$domain=jav-fun.cc
-
-@@||*lulu*.com^$domain=luluvdoo.com
-@@||*tnmr.org^$domain=luluvdoo.com
-||*^$domain=luluvdoo.com
-
-@@||*bigwarp*^$domain=bigwarp.pro
-||*^$domain=bigwarp.pro
-
-@@||*savefiles*^$domain=savefiles.com
-||*^$domain=savefiles.com
-
-@@||dintezuvio.com^$domain=dintezuvio.com
-@@||pixibay.cc^$domain=dintezuvio.com
-@@||*tiktokcdn.com^$domain=dintezuvio.com
-||*^$domain=dintezuvio.com
 
 www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
 
