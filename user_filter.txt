@@ -1,5 +1,5 @@
 ! Title: ユーザールール
-! Version: 20260121
+! Version: 20260124
 ! Expires: 1 days
 
 www.youtube.com##.style-scope yt-reaction-control-panel-overlay-view-model
@@ -12,7 +12,7 @@ race.netkeiba.com##[class="Cell_More"]
 race.netkeiba.com##[class="PaddockReport_Sample order1"]
 race.netkeiba.com##[class="PaddockReport order1"]
 sp.netkeiba.com###colorbox
-sp.netkeiba.com##[class="App_ReadMore"]
+*.sp.netkeiba.com##[class="App_ReadMore"]
 race.sp.netkeiba.com##[class*="HorseListSort order1"]
 race.sp.netkeiba.com##[class^="Mark_Pro"]
 race.sp.netkeiba.com##[class="Cell_More"]
