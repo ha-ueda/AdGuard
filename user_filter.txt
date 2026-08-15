@@ -1,8 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260814
+! Version: 20260815
 
 ! 20260814
-hitomi.la##[class="Ubwf0LTTc"]
+hitomi.la##.top-content > :first-child
 
 ! 20260715
 jav-noni.vip#%#//scriptlet('prevent-window-open')
