@@ -1,5 +1,8 @@
 ! Title: ユーザールール
-! Version: 20260815
+! Version: 20260821
+
+! 20260821
+@@||vexio.pw^
 
 ! 20260814
 hitomi.la##.top-content > :first-child
