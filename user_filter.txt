@@ -1,5 +1,9 @@
 ! Title: ユーザールール
-! Version: 20260821
+! Version: 20260905
+
+! 20260905
+avgle.net#%#//scriptlet('prevent-window-open')
+avgle.net##[id="jsVideoOverlay"]
 
 ! 20260821
 @@||vexio.pw^
